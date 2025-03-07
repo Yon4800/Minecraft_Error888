@@ -1,5 +1,7 @@
 <img alt="GitHub Downloads (all assets, all releases)" src="https://img.shields.io/github/downloads/Yon4800/Minecraft_Error888/total?style=for-the-badge">
+
 # Minecraft_Error888
+
 ## 注意
 - このバージョンはMojang公式から実際に出されたものではなく、また公式に認定されたものでもありません。
 - このバージョンをプレイして発生した損害に関しては製作者は一切の責任を負いません。

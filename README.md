@@ -42,6 +42,11 @@ https://multimc.org/#Download<br>
 ### サーバー
 - 普通のMinecraftサーバーと同じです。各自で調べてやってみてください。<br>
 ※ クライアントと動作が違い、完璧ではなく、バグも多いです！やる際はバグを許容してください！<br>
+- 必ずオフラインモードで実行してください！
+```
+# online-mode=true
+online-mode=false
+```
 
 ## How to run it
 ### Client
@@ -64,6 +69,11 @@ and once the installation is complete, drag and drop the zip file downloaded in 
 ### Server
 - It's the same as a normal Minecraft server. Please do your own research and try it out.<br>
 ※ It works differently from the client, is not perfect, and has many bugs! Please be patient with the bugs as you do so!<br>
+- Make sure you run it in offline mode!
+```
+# online-mode=true
+online-mode=false
+```
 
 ## クレジット
 クレジット

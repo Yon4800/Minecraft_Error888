@@ -10,6 +10,7 @@
 - 点滅やドッキリ要素、ホラー音が多いです。やる際は十分注意してください。
 - かなり重いです。やる際はそれなりのCPUやビデオボード、RAMを搭載したPCをご用意ください。
 - 実況などで使う場合は、このバージョンのURLのクレジット表記をしてくれると嬉しいです。
+- クラッシュすることがありますが仕様です。
 
 ## Caution
 - This version was not released by Mojang, nor is it officially certified.
@@ -19,6 +20,7 @@
 - There are many flashing, prank elements, and horror sounds. Please be very careful when doing this.
 - It's quite heavy. Please prepare a PC with a decent CPU, video board, and RAM when playing.
 - If you use it for live commentary, etc., I would appreciate it if you could credit the URL of this version.
+- Crashes may occur, but this is by design.
 
 
 ## 動かし方
@@ -42,7 +44,7 @@ https://multimc.org/#Download<br>
 ### サーバー
 - 普通のMinecraftサーバーと同じです。各自で調べてやってみてください。<br>
 ※ クライアントと動作が違い、完璧ではなく、バグも多いです！やる際はバグを許容してください！<br>
-- 必ずオフラインモードで実行してください！
+- 必ずオフラインモードで実行してください！<br>
 ```
 # online-mode=true
 online-mode=false
@@ -100,6 +102,8 @@ You'll have to wait to try it out to see what the elements are.<br>
 
 ※ サーバーでやる際の注意
 - シングルプレイと仕様が違うことがあります。注意してください。
+- キックされることがありますが仕様です。<br>
 
 ※ Notes when playing on a server
 - The design may differ from single player. Please be careful.
+- You may be kicked, but this is by design.<br>

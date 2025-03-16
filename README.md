@@ -107,3 +107,11 @@ You'll have to wait to try it out to see what the elements are.<br>
 ※ Notes when playing on a server
 - The design may differ from single player. Please be careful.
 - You may be kicked, but this is by design.<br>
+
+追記
+safe版は、ノイズのちらつきがないバージョンです。
+マルチで長時間やる場合やちらつきが苦手な方はそちらを利用下さい。
+
+P.S.
+The safe version is a version without noise flickering.
+Please use this version if you are going to play multiplayer for a long time or if you don't like flickering.

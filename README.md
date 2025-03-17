@@ -84,6 +84,12 @@ online-mode=false
 ### 音
 - freesound様<br>
 https://freesound.org<br>
+### アイコン
+- ガン萎え太郎/匿名 様
+### 一部コード(AI)
+- Google Gemini
+- Deepseek
+- ChatGPT
 
 ありがとうございます！
 
@@ -94,6 +100,12 @@ Credits
 ### Sound
 - freesound<br>
 https://freesound.org<br>
+### icon
+- gannaetaro/tokumei
+### Some code
+- Google Gemini
+- Deepseek
+- ChatGPT
 
 Thank you!<br>
 

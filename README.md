@@ -123,7 +123,9 @@ You'll have to wait to try it out to see what the elements are.<br>
 追記
 - safe版は、ノイズのちらつきがないバージョンです。
 - マルチで長時間やる場合やちらつきが苦手な方はそちらを利用下さい。
+- 「Error888_safes.zip」というファイル名です
 
 P.S.
 - The safe version is a version without noise flickering.
 - Please use this version if you are going to play multiplayer for a long time or if you don't like flickering.
+- The file name is "Error888_safes.zip"

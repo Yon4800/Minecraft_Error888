@@ -47,7 +47,8 @@ https://multimc.org/#Download<br>
 ### サーバー
 - 普通のMinecraftサーバーと同じです。各自で調べてやってみてください。<br>
 ※ クライアントと動作が違い、完璧ではなく、バグも多いです！やる際はバグを許容してください！<br>
-- 必ずオフラインモードで実行してください！<br>
+- 必ずオフラインモードで実行してください！(初期状態ではオフになっています)<br>
+
 ```
 # online-mode=true
 online-mode=false
@@ -74,7 +75,8 @@ and once the installation is complete, drag and drop the zip file downloaded in 
 ### Server
 - It's the same as a normal Minecraft server. Please do your own research and try it out.<br>
 ※ It works differently from the client, is not perfect, and has many bugs! Please be patient with the bugs as you do so!<br>
-- Make sure you run it in offline mode!
+- Make sure you run it in offline mode!(It is turned off by default)<br>
+
 ```
 # online-mode=true
 online-mode=false
@@ -123,12 +125,12 @@ You'll have to wait to try it out to see what the elements are.<br>
 - The design may differ from single player. Please be careful.
 - You may be kicked, but this is by design.<br>
 
-追記
+## Safe版について
 - safe版は、ノイズのちらつきがないバージョンです。
 - マルチで長時間やる場合やちらつきが苦手な方はそちらを利用下さい。
 - 「Error888_safes.zip」というファイル名です
 
-P.S.
+## About safe version
 - The safe version is a version without noise flickering.
 - Please use this version if you are going to play multiplayer for a long time or if you don't like flickering.
 - The file name is "Error888_safes.zip"

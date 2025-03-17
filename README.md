@@ -2,6 +2,9 @@
 
 # Minecraft_Error888
 
+<img width="200" alt="42c8d3d80b6f241f" src="https://github.com/user-attachments/assets/814c6346-60ec-431d-8d23-f9c29ae2c1d5" />
+
+
 ## 注意
 - このバージョンはMojang公式から実際に出されたものではなく、また公式に認定されたものでもありません。
 - このバージョンをプレイして発生した損害に関しては製作者は一切の責任を負いません。

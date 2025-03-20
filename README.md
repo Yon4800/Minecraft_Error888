@@ -49,11 +49,6 @@ https://multimc.org/#Download<br>
 ※ クライアントと動作が違い、完璧ではなく、バグも多いです！やる際はバグを許容してください！<br>
 - 必ずオフラインモードで実行してください！(初期状態ではオフになっています)<br>
 
-```
-# online-mode=true
-online-mode=false
-```
-
 ## How to run it
 ### Client
 

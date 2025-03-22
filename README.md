@@ -92,6 +92,9 @@ https://freesound.org<br>
 - Google Gemini
 - Deepseek
 - ChatGPT
+### ツール
+- ravbug様
+https://www.ravbug.com/bsod/
 
 ありがとうございます！
 
@@ -108,6 +111,9 @@ https://freesound.org<br>
 - Google Gemini
 - Deepseek
 - ChatGPT
+### Tool
+- ravbug
+https://www.ravbug.com/bsod/
 
 Thank you!<br>
 

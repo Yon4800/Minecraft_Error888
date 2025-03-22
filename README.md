@@ -14,6 +14,7 @@
 - かなり重いです。やる際はそれなりのCPUやビデオボード、RAMを搭載したPCをご用意ください。
 - 実況などで使う場合は、このバージョンのURLのクレジット表記をしてくれると嬉しいです。
 - クラッシュすることがありますが仕様です。
+- WindowsPC推奨です。Androidなどだと一部怪奇が起こらないかもしれません
 
 ## Caution
 - This version was not released by Mojang, nor is it officially certified.
@@ -24,6 +25,7 @@
 - It's quite heavy. Please prepare a PC with a decent CPU, video board, and RAM when playing.
 - If you use it for live commentary, etc., I would appreciate it if you could credit the URL of this version.
 - Crashes may occur, but this is by design.
+- Windows PC is recommended. Some strange things may not happen on Android.
 
 
 ## 動かし方

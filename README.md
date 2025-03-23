@@ -74,11 +74,6 @@ and once the installation is complete, drag and drop the zip file downloaded in 
 ※ It works differently from the client, is not perfect, and has many bugs! Please be patient with the bugs as you do so!<br>
 - Make sure you run it in offline mode!(It is turned off by default)<br>
 
-```
-# online-mode=true
-online-mode=false
-```
-
 ## クレジット
 クレジット
 ### テクスチャ製作者

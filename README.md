@@ -81,6 +81,8 @@ and once the installation is complete, drag and drop the zip file downloaded in 
 ### 音
 - freesound様<br>
 https://freesound.org<br>
+- pixabay様<br>
+https://pixabay.com<br>
 ### アイコン
 - ガン萎え太郎/匿名 様
 ### 一部コード(AI)
@@ -100,6 +102,8 @@ Credits
 ### Sound
 - freesound<br>
 https://freesound.org<br>
+- pixabay<br>
+https://pixabay.com<br>
 ### icon
 - gannaetaro/tokumei
 ### Some code

@@ -1,4 +1,4 @@
-<img alt="GitHub Downloads (all assets, all releases)" src="https://img.shields.io/github/downloads/Yon4800/Minecraft_Error888/total?style=for-the-badge">
+<img alt="GitHub Downloads (all releases)" src="https://img.shields.io/github/downloads/Yon4800/Minecraft_Error888/total?style=for-the-badge">
 
 # Minecraft_Error888
 

@@ -140,3 +140,6 @@ You'll have to wait to try it out to see what the elements are.<br>
 - The safe version is a version without noise flickering.
 - Please use this version if you are going to play multiplayer for a long time or if you don't like flickering.
 - The file name is "Error888_safes.zip"
+
+https://en.wikipedia.org/wiki/Konami_Code
+https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%8A%E3%83%9F%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%89

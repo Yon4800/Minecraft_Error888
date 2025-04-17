@@ -15,6 +15,7 @@
 - 実況などで使う場合は、このバージョンのURLのクレジット表記をしてくれると嬉しいです。
 - クラッシュすることがありますが仕様です。
 - WindowsPC推奨です。Androidなどだと一部怪奇が起こらないかもしれません
+- 時々とんでもない挙動をすることがあります。自己責任で実行して下さい。
 
 ## Caution
 - This version was not released by Mojang, nor is it officially certified.
@@ -26,6 +27,7 @@
 - If you use it for live commentary, etc., I would appreciate it if you could credit the URL of this version.
 - Crashes may occur, but this is by design.
 - Windows PC is recommended. Some strange things may not happen on Android.
+- Sometimes it behaves strangely, so use at your own risk.
 
 
 ## 動かし方
@@ -83,6 +85,7 @@ and once the installation is complete, drag and drop the zip file downloaded in 
 https://freesound.org<br>
 - pixabay様<br>
 https://pixabay.com<br>
+- Error422などで使われている音<br>
 ### アイコン
 - ガン萎え太郎/匿名 様
 ### 一部コード(AI)
@@ -104,6 +107,7 @@ Credits
 https://freesound.org<br>
 - pixabay<br>
 https://pixabay.com<br>
+- Sounds used in Error422 etc.<br>
 ### icon
 - gannaetaro/tokumei
 ### Some code

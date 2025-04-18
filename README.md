@@ -123,6 +123,12 @@ Thank you!<br>
 要素はやるまでのお楽しみです。<br>
 You'll have to wait to try it out to see what the elements are.<br>
 
+※ シングルでやる際の注意
+- 必ずグラフィックドライバーを更新して実行してください。
+
+※ Notes when playing in single mode
+- Be sure to update your graphics driver before running this.
+
 ※ サーバーでやる際の注意
 - シングルプレイと仕様が違うことがあります。注意してください。
 - キックされることがありますが仕様です。<br>

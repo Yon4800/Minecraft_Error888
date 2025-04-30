@@ -1,4 +1,4 @@
-<img alt="GitHub Downloads (all releases)" src="https://img.shields.io/github/downloads/Yon4800/Minecraft_Error888/total?style=for-the-badge">
+<img alt="GitHub Downloads (all releases)" src="https://img.shields.io/github/downloads/YonCursedMC/Minecraft_Error888/total?style=for-the-badge">
 
 # Minecraft_Error888
 
@@ -37,7 +37,7 @@
 https://www.azul.com/downloads/?version=java-8-lts&os=windows&architecture=x86-64-bit&package=jdk#zulu
 
 1. クライアントのzipファイルをダウンロードします。<br>
-https://github.com/Yon4800/Minecraft_Error888/releases<br>
+https://github.com/YonCursedMC/Minecraft_Error888/releases<br>
 こちらの一番上の```Error888.zip```<br>
 
 2. MultiMC<br>
@@ -60,7 +60,7 @@ Required: Java8 (zulu recommended)<br>
 https://www.azul.com/downloads/?version=java-8-lts&os=windows&architecture=x86-64-bit&package=jdk#zulu
 
 1. Download the client zip file.<br>
-https://github.com/Yon4800/Minecraft_Error888/releases<br>
+https://github.com/YonCursedMC/Minecraft_Error888/releases<br>
 The top one here is ``Error888.zip```<br>
 
 2. Install MultiMC<br>

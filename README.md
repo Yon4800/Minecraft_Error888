@@ -42,7 +42,7 @@ https://github.com/YonCursedMC/Minecraft_Error888/releases<br>
 
 2. MultiMC<br>
 https://multimc.org/#Download<br>
-をインストールし、インストールが完了したら、1.でダウンロードしたzipファイルをドラック&ドロップします。<br>
+をインストールし、インストールが完了したら、1.でダウンロードしたzipファイルをドラック&ドロップします。(あればPrismLaucnerでも可)<br>
 
 3. インストールできたら、Javaのインストールで先ほどインストールしたzuluのJava8を指定し、メモリ割り当てを必要に応じて変え、起動をクリック<br>
 
@@ -65,7 +65,7 @@ The top one here is ``Error888.zip```<br>
 
 2. Install MultiMC<br>
 https://multimc.org/#Download<br>
-and once the installation is complete, drag and drop the zip file downloaded in 1.<br>
+and once the installation is complete, drag and drop the zip file downloaded in step 1. (You can also use PrismLaucner if you have it).
 
 3. Once installed, specify the zulu Java 8 that you installed earlier in the Java installation, change memory allocation as necessary, and click Start<br>
 

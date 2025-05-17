@@ -76,7 +76,7 @@ and once the installation is complete, drag and drop the zip file downloaded in 
 ※ It works differently from the client, is not perfect, and has many bugs! Please be patient with the bugs as you do so!<br>
 - Make sure you run it in offline mode!(It is turned off by default)<br>
 
-### How to run it
+### How to run it(Russian)
 [![How to run it(Russian)](http://img.youtube.com/vi/XpkFUKv2K9A/0.jpg)](https://www.youtube.com/watch?v=XpkFUKv2K9A)
 
 ## クレジット
